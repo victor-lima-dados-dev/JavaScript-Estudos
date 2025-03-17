@@ -1,1 +1,2 @@
-document.getElementById('text').innerHTML = Burguer
+let favoriteFood = 'Pizza'
+document.getElementById('text').innerHTML = favoriteFood
