@@ -1,0 +1,16 @@
+body{
+
+    background-color: rgba(41, 37, 37, 0.852);
+}
+
+h1 {
+
+    background-color: grey;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h2 {
+    color: aliceblue;
+    text-align: center;
+}
